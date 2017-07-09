@@ -1,0 +1,18 @@
+﻿Build started 12/06/2013 01:04:07 a.m..
+     1>Project "C:\Users\Chivarecords\Desktop\VA213A\VALib\VALib.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\VALib.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         VALib.vcxproj -> C:\Users\Chivarecords\Desktop\VA213A\Debug\VALib.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\VALib.unsuccessfulbuild".
+         Touching "Debug\VALib.lastbuildstate".
+     1>Done Building Project "C:\Users\Chivarecords\Desktop\VA213A\VALib\VALib.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

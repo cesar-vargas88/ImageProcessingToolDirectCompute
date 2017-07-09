@@ -1,0 +1,7 @@
+1 bit
+4 bit
+24 bit no paletizado
+32 bit no paletizado
+
+leer cp09 direct compute (DirectCompute Computing the Teraflop)
+windows directx graphics -> Direct3d11-> ComputeShader OverView

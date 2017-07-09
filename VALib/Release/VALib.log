@@ -1,0 +1,18 @@
+﻿Build started 14/08/2014 18:16:52.
+     1>Project "C:\Users\Cèsar Vargas\Dropbox\Chivarecords\Escuela\CETI\Vision artificial\Respaldo proyecto principal\VA213A\VALib\VALib.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\VALib.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         VALib.vcxproj -> C:\Users\Cèsar Vargas\Dropbox\Chivarecords\Escuela\CETI\Vision artificial\Respaldo proyecto principal\VA213A\Release\VALib.lib
+       FinalizeBuildStatus:
+         Deleting file "Release\VALib.unsuccessfulbuild".
+         Touching "Release\VALib.lastbuildstate".
+     1>Done Building Project "C:\Users\Cèsar Vargas\Dropbox\Chivarecords\Escuela\CETI\Vision artificial\Respaldo proyecto principal\VA213A\VALib\VALib.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08

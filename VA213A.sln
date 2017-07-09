@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VA213A", "VA213A\VA213A.vcxproj", "{B6750DE7-460E-454D-9031-82ADF999B6BD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C17A212E-FFB2-4D05-A8E6-4FAD48EFE607} = {C17A212E-FFB2-4D05-A8E6-4FAD48EFE607}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VALib", "VALib\VALib.vcxproj", "{C17A212E-FFB2-4D05-A8E6-4FAD48EFE607}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{62C0B22A-5913-407E-875C-727D0AF8F199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6750DE7-460E-454D-9031-82ADF999B6BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6750DE7-460E-454D-9031-82ADF999B6BD}.Debug|Win32.Build.0 = Debug|Win32
+		{B6750DE7-460E-454D-9031-82ADF999B6BD}.Release|Win32.ActiveCfg = Release|Win32
+		{B6750DE7-460E-454D-9031-82ADF999B6BD}.Release|Win32.Build.0 = Release|Win32
+		{C17A212E-FFB2-4D05-A8E6-4FAD48EFE607}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C17A212E-FFB2-4D05-A8E6-4FAD48EFE607}.Debug|Win32.Build.0 = Debug|Win32
+		{C17A212E-FFB2-4D05-A8E6-4FAD48EFE607}.Release|Win32.ActiveCfg = Release|Win32
+		{C17A212E-FFB2-4D05-A8E6-4FAD48EFE607}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
